@@ -1,2 +1,1 @@
-print("byebye")
-print("*")
+print("Let's do PULL-REQUEST")
